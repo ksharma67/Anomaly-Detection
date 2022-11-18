@@ -1,4 +1,4 @@
-# Anomaly-Detection
+# Anomaly-Detection-On-Temperature-Device-Failure
 A typical anomaly detection task and performing KMeans, PCA, Gaussian distribution, and Isolation Forest
 
 1) Plotting / visualizing the 'original' dataset (hint: this is a Time Series object)
