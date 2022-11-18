@@ -20,7 +20,7 @@ Ultimately, we would like to figure out when (weekday, weekend, day, or night) t
 
 All following steps were executed twice:
 - for outliers_fraction = 0.01 (1%), assume that someone gave us this figure
-- calculate outliers_fraction by finding the total number of outliers utilizing the IQR Method; specifically use the 1.5xIQR rule.
+- calculating outliers_fraction by finding the total number of outliers utilizing the IQR Method; specifically use the 1.5xIQR rule.
 
 5) Applying the Gaussian distribution (EllipticEnvelope) algorithm, as defined in step 2. 
 Listing anomalies (if any) in each category and showing them graphically.
